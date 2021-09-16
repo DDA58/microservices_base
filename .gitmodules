@@ -1,0 +1,15 @@
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/DDA58/microservices_gateway
+[submodule "users"]
+	path = users
+	url = https://github.com/DDA58/microservices_users.git
+[submodule "files_downloader"]
+	path = files_downloader
+	url = https://github.com/DDA58/microservices_files_downloader.git
+[submodule "files_lists"]
+	path = files_lists
+	url = https://github.com/DDA58/microservices_files_lists.git
+[submodule "files_uploader"]
+	path = files_uploader
+	url = https://github.com/DDA58/microservices_files_uploader.git

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/architect_training.iml" filepath="$PROJECT_DIR$/.idea/architect_training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/files_downloader/.idea/files_downloader.iml" filepath="$PROJECT_DIR$/files_downloader/.idea/files_downloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/files_lists/.idea/files_lists.iml" filepath="$PROJECT_DIR$/files_lists/.idea/files_lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/files_uploader/.idea/files_uploader.iml" filepath="$PROJECT_DIR$/files_uploader/.idea/files_uploader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/.idea/gateway.iml" filepath="$PROJECT_DIR$/gateway/.idea/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/users/.idea/users.iml" filepath="$PROJECT_DIR$/users/.idea/users.iml" />
+    </modules>
+  </component>
+</project>
