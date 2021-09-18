@@ -55,5 +55,4 @@ services:
       - "15672:15672"
 networks:
   default:
-    external: true
     name: microservices
